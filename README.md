@@ -12,9 +12,11 @@ npm install -g yo
 ```
 - Clone/Download generator-node-server
 - 'cd' (change directory) /to/generator-node-server folder
+- Install dependent node modules.
 -  NPM link generator-node-server package
 ```bash
 cd <installation directory>/generator-node-server
+npm i
 sudo npm link
 ```
 
