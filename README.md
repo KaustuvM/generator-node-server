@@ -15,6 +15,7 @@ npm install -g yo
 - Install dependent node modules.
 -  NPM link generator-node-server package
 ```bash
+git clone https://github.com/KaustuvM/generator-node-server.git
 cd <installation directory>/generator-node-server
 npm i
 sudo npm link
