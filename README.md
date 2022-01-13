@@ -15,7 +15,7 @@ npm install -g yo
 -  NPM link generator-node-server package
 ```bash
 cd <installation directory>/generator-node-server
-npm link
+sudo npm link
 ```
 
 - Next, from any directory (where you want to create your server), run node-server and provide the necessary inputs
